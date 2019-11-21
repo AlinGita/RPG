@@ -1,0 +1,10 @@
+Tabla jocului:
+
+-are dimensiunea 9x9
+-e formata din 9 table de dimensiuni 3x3, numite regiuni
+-contine deja anumite cifre fixate de la începutul jocului
+
+Scopul acestui puzzle este
+
+-a introduce un numar de la 1 la 9 în fiecare celula a tablei
+-fiecare rând, coloana si regiune trebuie sa contina maxim o instanta a fiecarei cifre

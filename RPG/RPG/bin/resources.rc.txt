@@ -1,0 +1,1 @@
+IDI_APP     ICON       "bin/my_icon.ico"
